@@ -86,7 +86,7 @@ Created a business-focused presentation summarizing:
 * MySQL
 * SQL
 * Power BI
-* Jupyter Notebook
+* VS Code
 * Microsoft Excel
 * Microsoft PowerPoint
 
